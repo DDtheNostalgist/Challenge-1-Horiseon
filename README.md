@@ -1,3 +1,3 @@
 # Challenge-1-Horiseon
 
-[Horiseon homepage](../challenge1.html)
+[Horiseon homepage](/file:///Users/ddthenostalgist/Desktop/projects/challenge1.html)
